@@ -1,1 +1,1 @@
-aaa
+print("Hola mundo")
